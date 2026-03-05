@@ -15,7 +15,6 @@ class DetailScreen extends StatelessWidget {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            // Header Image with Back Button
             Stack(
               children: [
                 // Large Header Image
